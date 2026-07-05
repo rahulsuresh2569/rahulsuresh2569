@@ -50,29 +50,3 @@ languages: English, German, Tamil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
 </p>
-
----
-
-### 🔨 Things I've built
-
-🐐 **DigiZiege** - Offline-first PWA for field data collection (Scrum team project) - [digiziege.de](https://www.digiziege.de/) · [Open Source Repo](https://codeberg.org/digiziege/digiziege) 
-
-🎫 **MOV Event Platform** - Microservices-based event management system - [Repo](https://github.com/rahulsuresh2569/MOV-Event-Mgmt)
-
-🎨 **Portfolio Website for a UI/UX Designer** - Performance-optimized portfolio site with motion-driven UI - [Live](https://jeevankumark.netlify.app/) · [Repo](https://github.com/rahulsuresh2569/Jeevankumar-Portfolio)
-
-🧱 **DudeFolio** - No-code portfolio builder - [Repo](https://github.com/rahulsuresh2569/DudeFolio-Portfolio-Builder)
-
-💰 **PocketPal** - Mobile-first budget tracking app - [Repo](https://github.com/rahulsuresh2569/PocketPal-Budget-Register-App)
-
----
-
-### 🤝 Let's collaborate
-
-I'm always open to working on interesting stuff:
-
-- Open source contributions, especially backend and tooling
-- Student projects and hackathons
-- AI-assisted development experiments
-
-I like working in teams where people build fast, share ideas, and use modern tools to stay productive. If you're building something cool, feel free to reach out.
