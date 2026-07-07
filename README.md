@@ -1,42 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hi%2C%20I%27m%20Rahul%20%F0%9F%91%8B&fontSize=42&animation=fadeIn" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulsuresh2569"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:rahulsuresh2569@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://github.com/rahulsuresh2569"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<p align="center">
-  <em>CS student in Germany. Curious about how things work, happiest when building something new.</em>
-</p>
-
----
-
-### 🧑‍💻 About me
-
-I like understanding how systems work - not just using them, but digging into the backend, thinking about system design, real-time flows, distributed patterns, and what happens when the network drops. 
-
-I also actively collaborate with AI dev tools. They're part of how I learn something new.
-
 ```yaml
-status: building + learning
-location: Germany
+name: Rahul Suresh
+company: BMW Group
+role: Full Stack Dev Intern
+location: Munich, Germany
+status: building + learning AI agents
 interests:
-  - backend systems
-  - real-time features
-  - distributed systems thinking
-  - offline-first applications
-currently_exploring:
+  - AI & Automation
+  - web development 
+  - system design & architecture
+  - shipping ideas quickly
   - AI-assisted dev workflows
-  - modern web tech
 languages: English, German, Tamil
 ```
-
----
-
-### ⚡ Tech I work with
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>&nbsp;&nbsp;
