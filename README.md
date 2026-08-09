@@ -1,29 +1,11 @@
-<pre>
-                       #(,.,.....,,,/(%                       rahul@suresh -----------------------------------
-                /#,..,,*,., ,.. .... ....,*(                  OS:.................................. Windows 11
-              ,.,,***.** .. .  . .     .    .*,%              Uptime:............................. 21y 10m 11d
-           /,....(,,*.,..                .  .. **/(#          Host:......................... BMW Group, Munich
-         .    .,..,.,,.                 .   .  ..,,/          Kernel:................... Full Stack Dev Intern
-      #,   ..    . .           ........    .   .  .,(         IDE:................................. [ADD HERE]
-      %/   ..     ..,,,,,,,,********,,..       . ..,/         
-     % .     ..   .,. **/,*///////***,,,.       ...*#%        Languages.Programming:.... JS, TS, Python, C/C++
-       (.      .,/**/(/((#(((#(((((//**,,,..  . .../          Languages.Computer:....... HTML, CSS, JSON, YAML
-         .     .*(/((#%%&amp;%%%#%#(((//*,,,,***, . ,..%          Languages.Real:.......... English, German, Tamil
-        *.    ,/(/***,.,,,*/(((/*,...,***,,/##...,/           
-         .   ,/(/(((*##*,.**/((*...,.*  .*.**#%,.,            Hobbies.Software:...... AI &amp; Automation, Web Dev
-         *  .*(((/*/(#(**(#((##/*,*///*******/#,, #           Hobbies.Hardware:.................... [ADD HERE]
-         **/,/(((######%#%#(#%#(/*,/(#(((((/*/(#,.#           
-         *##*/(##%%%&amp;%#(/(##(##(/,//.,/(((///##% //           - Contact --------------------------------------
-         ((((//(####(*./##(,,*,..  ..,*,//***(##,.#           Email.Personal:....... <a href="mailto:rahulsuresh2569@gmail.com">rahulsuresh2569@gmail.com</a>
-          (/#*///(//,,,**/(/((/**,,,,.  ,*,,,*(#**#           Email.Work:.......................... [ADD HERE]
-          (##,/////(**,, (%&amp;@@&amp;@&amp;#(*. **,(*,,*//              LinkedIn:.................... <a href="https://www.linkedin.com/in/rahulsuresh2569">in/rahulsuresh2569</a>
-              */////(((##(((%%#%#/***,**/,,,,**(              Discord:............................. [ADD HERE]
-              #,**////(##(#(/,,*,.,,,,**,,,.,,(               
-                ..,*,*/#(###%##(((///*,,,..,,                 - GitHub Stats ---------------------------------
-                 *..,..,**/*/***//*,,,...,.*(                 Repos:.............. 13 Stars:............... 11
-                 (/*,.. ...   ..  .   ..,,,*#                 Commits:.......... ~560 Followers:............ 4
-                /@/((/*,,,................,*/% ,              Lines of Code:....................... [ADD HERE]
-              .,@@@(((((///***,,....,..,.,..#&amp;&amp; ,/            
-           ,,.,,@@@@&amp;(((((////***,,,,,,,..%%%%%  ,,,*.        
-     ,..,,,,,.,.@@@@@@@&amp;((((////**,,,,,&amp;%%%%%%(   ,,.. ....*  
-</pre>
+<a href="https://github.com/rahulsuresh2569">
+  <picture>
+    <img alt="rahul@suresh terminal profile" src="github-profile-card.svg" />
+  </picture>
+</a>
+
+<p>
+  <a href="mailto:rahulsuresh2569@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/rahulsuresh2569">LinkedIn</a> ·
+  <a href="https://github.com/rahulsuresh2569">GitHub</a>
+</p>
