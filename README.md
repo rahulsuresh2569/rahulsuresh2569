@@ -8,7 +8,7 @@
          .    .,..,.,,.                 .   .  ..,,/          IDE:.............. [ADD HERE]
       #,   ..    . .           ........    .   .  .,(         
       %/   ..     ..,,,,,,,,********,,..       . ..,/         Lang.Programming:. JS, TS, Python, C/C++, Java
-     % .     ..   .,. **/,*///////***,,,.       ...*#%        Lang.Computer:.... HTML, CSS, JSON, YAML, LaTeX
+     % .     ..   .,. **/,*///////***,,,.       ...*#%        Lang.Computer:.... HTML, CSS, JSON, YAML
        (.      .,/**/(/((#(((#(((((//**,,,..  . .../          Lang.Real:........ English, German, Tamil
          .     .*(/((#%%&amp;%%%#%#(((//*,,,,***, . ,..%          
         *.    ,/(/***,.,,,*/(((/*,...,***,,/##...,/           Hobbies.Software:. AI &amp; Automation, Web Dev
