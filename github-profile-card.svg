@@ -7,33 +7,33 @@
 <text x="28" y="57.3" fill="#c9d1d9" xml:space="preserve">                /#,..,,*,., ,.. .... ....,*(                </text>
 <text x="535" y="57.3" xml:space="preserve"><tspan fill="#e6b450">Role:</tspan><tspan fill="#8b949e">.............................. </tspan><tspan fill="#79c0ff">Full-Stack + AI Agents</tspan></text>
 <text x="28" y="75.3" fill="#c9d1d9" xml:space="preserve">              ,.,,***.** .. .  . .     .    .*,%            </text>
-<text x="535" y="75.3" xml:space="preserve"><tspan fill="#e6b450">Alive.since:</tspan><tspan fill="#8b949e">.................................. </tspan><tspan fill="#79c0ff">21y 10m 11d</tspan></text>
+<text x="535" y="75.3" xml:space="preserve"><tspan fill="#e6b450">Uptime:</tspan><tspan fill="#8b949e">....................................... </tspan><tspan fill="#79c0ff">21y 10m 11d</tspan></text>
 <text x="28" y="93.3" fill="#c9d1d9" xml:space="preserve">           /,....(,,*.,..                .  .. **/(#        </text>
 <text x="535" y="93.3" xml:space="preserve"><tspan fill="#e6b450">Address:</tspan><tspan fill="#8b949e">.................................. </tspan><tspan fill="#79c0ff">Munich, Germany</tspan></text>
 <text x="28" y="111.3" fill="#c9d1d9" xml:space="preserve">         .    .,..,.,,.                 .   .  ..,,/        </text>
-<text x="535" y="111.3" xml:space="preserve"><tspan fill="#e6b450">Employer:</tspan><tspan fill="#8b949e">................................. </tspan><tspan fill="#79c0ff">BMW Group · NVH</tspan></text>
+<text x="535" y="111.3" xml:space="preserve"><tspan fill="#e6b450">Employer:</tspan><tspan fill="#8b949e">....................................... </tspan><tspan fill="#79c0ff">BMW Group</tspan></text>
 <text x="28" y="129.3" fill="#c9d1d9" xml:space="preserve">      #,   ..    . .           ........    .   .  .,(       </text>
 <text x="535" y="129.3" xml:space="preserve"><tspan fill="#e6b450">Degree:</tspan><tspan fill="#8b949e">...................... </tspan><tspan fill="#79c0ff">B.Sc. Informatik · TH Bingen</tspan></text>
 <text x="28" y="147.3" fill="#c9d1d9" xml:space="preserve">      %/   ..     ..,,,,,,,,********,,..       . ..,/       </text>
-<text x="535" y="147.3" xml:space="preserve"><tspan fill="#e6b450">Agent.runtime:</tspan><tspan fill="#8b949e">......................... </tspan><tspan fill="#79c0ff">Gemini + LangGraph</tspan></text>
+<text x="535" y="147.3" xml:space="preserve"><tspan fill="#e6b450">Automation:</tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#79c0ff">Gemini, LangGraph, n8n</tspan></text>
 <text x="28" y="165.3" fill="#c9d1d9" xml:space="preserve">     % .     ..   .,. **/,*///////***,,,.       ...*#%      </text>
-<text x="535" y="165.3" xml:space="preserve"><tspan fill="#e6b450">North.star:</tspan><tspan fill="#8b949e">.................... </tspan><tspan fill="#79c0ff">building + shipping agents</tspan></text>
+<text x="535" y="165.3" xml:space="preserve"><tspan fill="#e6b450">Focus:</tspan><tspan fill="#8b949e">......................... </tspan><tspan fill="#79c0ff">building + shipping agents</tspan></text>
 <text x="28" y="183.3" fill="#c9d1d9" xml:space="preserve">       (.      .,/**/(/((#(((#(((((//**,,,..  . .../        </text>
 <text x="28" y="201.3" fill="#c9d1d9" xml:space="preserve">         .     .*(/((#%%&amp;%%%#%#(((//*,,,,***, . ,..%        </text>
 <text x="535" y="201.3" xml:space="preserve"><tspan fill="#e6b450">Lang.code:</tspan><tspan fill="#8b949e">.......................... </tspan><tspan fill="#79c0ff">JS, TS, Python, C/C++</tspan></text>
 <text x="28" y="219.3" fill="#c9d1d9" xml:space="preserve">        *.    ,/(/***,.,,,*/(((/*,...,***,,/##...,/         </text>
-<text x="535" y="219.3" xml:space="preserve"><tspan fill="#e6b450">Lang.agents:</tspan><tspan fill="#8b949e">....................... </tspan><tspan fill="#79c0ff">Gemini, LangGraph, n8n</tspan></text>
+<text x="535" y="219.3" xml:space="preserve"><tspan fill="#e6b450">Lang.agents:</tspan><tspan fill="#8b949e">.................. </tspan><tspan fill="#79c0ff">Prompting, LLM apps, agents</tspan></text>
 <text x="28" y="237.3" fill="#c9d1d9" xml:space="preserve">         .   ,/(/(((*##*,.**/((*...,.*  .*.**#%,.,          </text>
 <text x="535" y="237.3" xml:space="preserve"><tspan fill="#e6b450">Lang.human:</tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#79c0ff">English, German, Tamil</tspan></text>
 <text x="28" y="255.3" fill="#c9d1d9" xml:space="preserve">         *  .*(((/*/(#(**(#((##/*,*///*******/#,, #         </text>
 <text x="28" y="273.3" fill="#c9d1d9" xml:space="preserve">         **/,/(((######%#%#(#%#(/*,/(#(((((/*/(#,.#         </text>
-<text x="535" y="273.3" xml:space="preserve"><tspan fill="#e6b450">Surface:</tspan><tspan fill="#8b949e">.............................. </tspan><tspan fill="#79c0ff">React, Angular, Vue</tspan></text>
+<text x="535" y="273.3" xml:space="preserve"><tspan fill="#e6b450">Frontend:</tspan><tspan fill="#8b949e">............................. </tspan><tspan fill="#79c0ff">React, Angular, Vue</tspan></text>
 <text x="28" y="291.3" fill="#c9d1d9" xml:space="preserve">         *##*/(##%%%&amp;%#(/(##(##(/,//.,/(((///##% //         </text>
-<text x="535" y="291.3" xml:space="preserve"><tspan fill="#e6b450">Services:</tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#79c0ff">Node, NestJS, FastAPI</tspan></text>
+<text x="535" y="291.3" xml:space="preserve"><tspan fill="#e6b450">Backend:</tspan><tspan fill="#8b949e">............................ </tspan><tspan fill="#79c0ff">Node, NestJS, FastAPI</tspan></text>
 <text x="28" y="309.3" fill="#c9d1d9" xml:space="preserve">         ((((//(####(*./##(,,*,..  ..,*,//***(##,.#         </text>
-<text x="535" y="309.3" xml:space="preserve"><tspan fill="#e6b450">Infra:</tspan><tspan fill="#8b949e">............................. </tspan><tspan fill="#79c0ff">AWS, Cloud Run, Docker</tspan></text>
+<text x="535" y="309.3" xml:space="preserve"><tspan fill="#e6b450">Cloud:</tspan><tspan fill="#8b949e">............................. </tspan><tspan fill="#79c0ff">AWS, Cloud Run, Docker</tspan></text>
 <text x="28" y="327.3" fill="#c9d1d9" xml:space="preserve">          (/#*///(//,,,**/(/((/**,,,,.  ,*,,,*(#**#         </text>
-<text x="535" y="327.3" xml:space="preserve"><tspan fill="#e6b450">State:</tspan><tspan fill="#8b949e">................. </tspan><tspan fill="#79c0ff">MongoDB, Postgres, Redis, DynamoDB</tspan></text>
+<text x="535" y="327.3" xml:space="preserve"><tspan fill="#e6b450">Databases:</tspan><tspan fill="#8b949e">............. </tspan><tspan fill="#79c0ff">MongoDB, Postgres, Redis, DynamoDB</tspan></text>
 <text x="28" y="345.3" fill="#c9d1d9" xml:space="preserve">          (##,/////(**,, (%&amp;@@&amp;@&amp;#(*. **,(*,,*//            </text>
 <text x="28" y="363.3" fill="#c9d1d9" xml:space="preserve">              */////(((##(((%%#%#/***,**/,,,,**(            </text>
 <text x="535" y="363.3" xml:space="preserve"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#8b949e">------------------------------------------------</tspan></text>
@@ -47,9 +47,9 @@
 <text x="28" y="453.3" fill="#c9d1d9" xml:space="preserve">                /@/((/*,,,................,*/% ,            </text>
 <text x="535" y="453.3" xml:space="preserve"><tspan fill="#c9d1d9">- GitHub Stats </tspan><tspan fill="#8b949e">-------------------------------------------</tspan></text>
 <text x="28" y="471.3" fill="#c9d1d9" xml:space="preserve">              .,@@@(((((///***,,....,..,.,..#&amp;&amp; ,/          </text>
-<text x="535" y="471.3" xml:space="preserve"><tspan fill="#e6b450">Repos:</tspan><tspan id="repo_dots" fill="#8b949e">..... </tspan><tspan id="repo_data" fill="#79c0ff">10</tspan><tspan fill="#8b949e"> {Contributed: </tspan><tspan id="contrib_data" fill="#8b949e">5</tspan><tspan fill="#8b949e">} | </tspan><tspan fill="#e6b450">Stars:</tspan><tspan id="star_dots" fill="#8b949e">................ </tspan><tspan id="star_data" fill="#79c0ff">8</tspan></text>
+<text x="535" y="471.3" xml:space="preserve"><tspan fill="#e6b450">Repos:</tspan><tspan id="repo_dots" fill="#8b949e">..... </tspan><tspan id="repo_data" fill="#79c0ff">13</tspan><tspan fill="#8b949e"> {Contributed: </tspan><tspan id="contrib_data" fill="#8b949e">6</tspan><tspan fill="#8b949e">} | </tspan><tspan fill="#e6b450">Stars:</tspan><tspan id="star_dots" fill="#8b949e">............... </tspan><tspan id="star_data" fill="#79c0ff">11</tspan></text>
 <text x="28" y="489.3" fill="#c9d1d9" xml:space="preserve">           ,,.,,@@@@&amp;(((((////***,,,,,,,..%%%%%  ,,,*.      </text>
-<text x="535" y="489.3" xml:space="preserve"><tspan fill="#e6b450">Commits:</tspan><tspan id="commit_dots" fill="#8b949e">............... </tspan><tspan id="commit_data" fill="#79c0ff">516</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Followers:</tspan><tspan id="follower_dots" fill="#8b949e">................ </tspan><tspan id="follower_data" fill="#79c0ff">4</tspan></text>
+<text x="535" y="489.3" xml:space="preserve"><tspan fill="#e6b450">Commits:</tspan><tspan id="commit_dots" fill="#8b949e">............... </tspan><tspan id="commit_data" fill="#79c0ff">573</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Followers:</tspan><tspan id="follower_dots" fill="#8b949e">................ </tspan><tspan id="follower_data" fill="#79c0ff">4</tspan></text>
 <text x="28" y="507.3" fill="#c9d1d9" xml:space="preserve">     ,..,,,,,.,.@@@@@@@&amp;((((////**,,,,,&amp;%%%%%%(   ,,.. ....*</text>
-<text x="535" y="507.3" xml:space="preserve"><tspan fill="#e6b450">Lines of Code on GitHub:</tspan><tspan id="loc_dots" fill="#8b949e">. </tspan><tspan id="loc_data" fill="#79c0ff">389,195</tspan><tspan fill="#8b949e"> ( </tspan><tspan id="loc_add" fill="#3fb950">426,625++</tspan><tspan fill="#8b949e">, </tspan><tspan id="loc_del" fill="#f85149">37,430--</tspan><tspan fill="#8b949e"> )</tspan></text>
+<text x="535" y="507.3" xml:space="preserve"><tspan fill="#e6b450">Lines of Code on GitHub:</tspan><tspan id="loc_dots" fill="#8b949e">. </tspan><tspan id="loc_data" fill="#79c0ff">443,925</tspan><tspan fill="#8b949e"> ( </tspan><tspan id="loc_add" fill="#3fb950">488,585++</tspan><tspan fill="#8b949e">, </tspan><tspan id="loc_del" fill="#f85149">44,660--</tspan><tspan fill="#8b949e"> )</tspan></text>
 </g></svg>
