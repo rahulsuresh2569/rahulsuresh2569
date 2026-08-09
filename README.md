@@ -1,27 +1,80 @@
-```yaml
-name: Rahul Suresh
-company: BMW Group
-role: Full Stack Dev Intern
-location: Munich, Germany
-status: building + learning AI agents
-interests:
-  - AI & Automation
-  - web development 
-  - system design & architecture
-  - shipping ideas quickly
-  - AI-assisted dev workflows
-languages: English, German, Tamil
-```
+<table>
+  <tr>
+    <td valign="top">
+<pre>
+                                                                                
+                                                                                
+                                ..#((/((/*,((##%                                
+                            ##/**,,.....,,...,....,(%#                          
+                      ##*.*.,,,,..,...... ..,..  ,.....,/(                      
+                   %(..*,*/(/,...      ...  ..       ......,(/                  
+                 *.,.**..,.,,,..   .     .             .  ...,,(###%            
+              ( ,,./..,.,*... .,.                           ...,,*//(           
+            /,   . ,..,..,.*..                    .        . .....,,/%          
+         (. .,   .. .   .,.                        . . .       . ..../#         
+        (...         ..,,.. ....., .......,,,,,,,..                .,(%         
+         (     ....    . ..,,,*,,,,**************,,...          .. .,/#         
+       /#(   , ..,..       .. ,,*//,//*//////***,*,,,. .         ..,*(%         
+         (.        ....  .,,*,//(((/(((((((((//****,*,,,.   .   ...*/#          
+         %.         .,*//((#(###%%%%######(((((////*,,***,.  .. /,,,/           
+          # .       .*///(###%%%&amp;%%%%#%###((((/*,.....,**//, ..,,,*,%           
+             .     ,///((//,*...,.***((#(//**,.....,,,,,,*###....,,(            
+           /.     ,/(///((####(/*****/(%#/*,.,,,.*//*..,//(###.,,.,%            
+           ,     ,//((((/,/, ,  ,..*//(##/*.,, /%.   , . ,,*#%*,../             
+            (  ..,/((((///((#(/*((##(((##(**,*/////**,***/***#%,,..             
+            *.(/.,/(((###%#####%%%##(##%%((*,,*/(((((((///***(%*,.,             
+           ,*((%/*/(###%%%%%%%####((##%%%#(//*/,*/(##((((///(#%#.*.#            
+           ,/##(**/(###%%&amp;%%##/*((###(*((/*,.,**.,,*((((////#%%#.,.#            
+            ((#/(*/(((#####(*.*(###/,,*,,..    ..,,*,*//****(###,,,             
+             (/##,//(/(((/*..////**(((##((**,,,,,. .,,,*,,,,*(((,*(             
+             #(#(,////////*.*.*/,,,,.//##/%(,*,,   .,.,/*,,,,/(/.,/             
+              /(/*,//////((/**/((/#%%&amp;&amp;&amp;&amp;&amp;%/(#(,,*****//,,,,,*//                
+                  **//////(((/(##(((#%%##%#(//*******/*,,.,,***#                
+                   ,,**//*//(((###(((/,,,*,,,,,,,,****,,.,,,,*#                 
+                   .,,,****//(((#((#####(((//***,****,,..,.,/#                  
+                     (...**,**(######%%##((((//*/***,...,,,/                    
+                       ,..,....**/(//(///////**,,,,......*/#                    
+                       /**... .    .....,......    ..,.,,*(&amp;                    
+                      %///**,,,,,...         ...,...,.,.,*((&amp;                   
+                    #,@&amp;/(((/***,,,,,...................,,/,%(.#                
+                  (.,&amp;@@&amp;(((((((////***,,,......,.,.,.....(%&amp;&amp;  */              
+                ,,,,.&amp;@@@@(((((((((/(/****,,,,,,,,,,,.../%%%%&amp;*  ,*,/           
+           (,,,,..,,,@@@@@@@@(((((((////***,,,,,,,,,,.%%%%%%%%*  .,*,...,//     
+     (,...,,,,,.,,,,,@@@@@@@@@@@((((((////***,,,,,,%&amp;%%%%%%%%#,   .,,,..  ......
+</pre>
+    </td>
+    <td valign="top">
+<pre>
+<strong>rahul@suresh</strong>
+────────────────────────────
+OS:..................... Windows 11
+Uptime:................. 21 years, 10 months, 11 days
+Host:................... BMW Group · Munich, Germany
+Kernel:................. Full Stack Dev Intern
+IDE:.................... [ADD HERE]
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" alt="Vue.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
-</p>
+Languages.Programming:.. JavaScript, TypeScript, Python, C/C++, Java
+Languages.Computer:..... HTML, CSS, JSON, YAML, LaTeX
+Languages.Real:......... English, German, Tamil
+
+Hobbies.Software:....... AI &amp; Automation, Web Development, System Design
+Hobbies.Hardware:....... [ADD HERE]
+
+<strong>Contact</strong>
+────────────────────────────
+Email.Personal:......... <a href="mailto:rahulsuresh2569@gmail.com">rahulsuresh2569@gmail.com</a>
+Email.Work:............. [ADD HERE]
+LinkedIn:............... <a href="https://www.linkedin.com/in/rahulsuresh2569">linkedin.com/in/rahulsuresh2569</a>
+Discord:................ [ADD HERE]
+
+<strong>GitHub Stats</strong>
+────────────────────────────
+Repos:.................. 13
+Commits:................ ~560
+Stars:.................. 11
+Followers:.............. 4
+Lines of Code:.......... [ADD HERE]
+</pre>
+    </td>
+  </tr>
+</table>
