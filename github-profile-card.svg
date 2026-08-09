@@ -1,56 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="839" height="437" viewBox="0 0 839 437">
-<rect width="100%" height="100%" fill="#0d1117" rx="8"/>
-<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
-<text x="16" y="28" fill="#c9d1d9" xml:space="preserve">                       #(,.,.....,,,/(%                     </text>
-<text x="462.4" y="28" xml:space="preserve"><tspan fill="#c9d1d9">rahul@suresh </tspan><tspan fill="#8b949e">-------------------------------------</tspan></text>
-<text x="16" y="43" fill="#c9d1d9" xml:space="preserve">                /#,..,,*,., ,.. .... ....,*(                </text>
-<text x="462.4" y="43" xml:space="preserve"><tspan fill="#e6b450">OS:</tspan><tspan fill="#8b949e">.................................... </tspan><tspan fill="#79c0ff">Windows 11</tspan></text>
-<text x="16" y="58" fill="#c9d1d9" xml:space="preserve">              ,.,,***.** .. .  . .     .    .*,%            </text>
-<text x="462.4" y="58" xml:space="preserve"><tspan fill="#e6b450">Uptime:</tspan><tspan fill="#8b949e">............................... </tspan><tspan fill="#79c0ff">21y 10m 11d</tspan></text>
-<text x="16" y="73" fill="#c9d1d9" xml:space="preserve">           /,....(,,*.,..                .  .. **/(#        </text>
-<text x="462.4" y="73" xml:space="preserve"><tspan fill="#e6b450">Host:</tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#79c0ff">BMW Group, Munich</tspan></text>
-<text x="16" y="88" fill="#c9d1d9" xml:space="preserve">         .    .,..,.,,.                 .   .  ..,,/        </text>
-<text x="462.4" y="88" xml:space="preserve"><tspan fill="#e6b450">Kernel:</tspan><tspan fill="#8b949e">..................... </tspan><tspan fill="#79c0ff">Full Stack Dev Intern</tspan></text>
-<text x="16" y="103" fill="#c9d1d9" xml:space="preserve">      #,   ..    . .           ........    .   .  .,(       </text>
-<text x="462.4" y="103" xml:space="preserve"><tspan fill="#e6b450">IDE:</tspan><tspan fill="#8b949e">................................... </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
-<text x="16" y="118" fill="#c9d1d9" xml:space="preserve">      %/   ..     ..,,,,,,,,********,,..       . ..,/       </text>
-<text x="16" y="133" fill="#c9d1d9" xml:space="preserve">     % .     ..   .,. **/,*///////***,,,.       ...*#%      </text>
-<text x="462.4" y="133" xml:space="preserve"><tspan fill="#e6b450">Languages.Programming:</tspan><tspan fill="#8b949e">...... </tspan><tspan fill="#79c0ff">JS, TS, Python, C/C++</tspan></text>
-<text x="16" y="148" fill="#c9d1d9" xml:space="preserve">       (.      .,/**/(/((#(((#(((((//**,,,..  . .../        </text>
-<text x="462.4" y="148" xml:space="preserve"><tspan fill="#e6b450">Languages.Computer:</tspan><tspan fill="#8b949e">......... </tspan><tspan fill="#79c0ff">HTML, CSS, JSON, YAML</tspan></text>
-<text x="16" y="163" fill="#c9d1d9" xml:space="preserve">         .     .*(/((#%%&amp;%%%#%#(((//*,,,,***, . ,..%        </text>
-<text x="462.4" y="163" xml:space="preserve"><tspan fill="#e6b450">Languages.Real:</tspan><tspan fill="#8b949e">............ </tspan><tspan fill="#79c0ff">English, German, Tamil</tspan></text>
-<text x="16" y="178" fill="#c9d1d9" xml:space="preserve">        *.    ,/(/***,.,,,*/(((/*,...,***,,/##...,/         </text>
-<text x="462.4" y="178" xml:space="preserve"><tspan fill="#e6b450">Hobbies.Software:</tspan><tspan fill="#8b949e">........ </tspan><tspan fill="#79c0ff">AI &amp; Automation, Web Dev</tspan></text>
-<text x="16" y="193" fill="#c9d1d9" xml:space="preserve">         .   ,/(/(((*##*,.**/((*...,.*  .*.**#%,.,          </text>
-<text x="462.4" y="193" xml:space="preserve"><tspan fill="#e6b450">Hobbies.Hardware:</tspan><tspan fill="#8b949e">...................... </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
-<text x="16" y="208" fill="#c9d1d9" xml:space="preserve">         *  .*(((/*/(#(**(#((##/*,*///*******/#,, #         </text>
-<text x="16" y="223" fill="#c9d1d9" xml:space="preserve">         **/,/(((######%#%#(#%#(/*,/(#(((((/*/(#,.#         </text>
-<text x="462.4" y="223" xml:space="preserve"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#8b949e">----------------------------------------</tspan></text>
-<text x="16" y="238" fill="#c9d1d9" xml:space="preserve">         *##*/(##%%%&amp;%#(/(##(##(/,//.,/(((///##% //         </text>
-<text x="462.4" y="238" xml:space="preserve"><tspan fill="#e6b450">Email.Personal:</tspan><tspan fill="#8b949e">......... </tspan><tspan fill="#79c0ff">rahulsuresh2569@gmail.com</tspan></text>
-<text x="16" y="253" fill="#c9d1d9" xml:space="preserve">         ((((//(####(*./##(,,*,..  ..,*,//***(##,.#         </text>
-<text x="462.4" y="253" xml:space="preserve"><tspan fill="#e6b450">Email.Work:</tspan><tspan fill="#8b949e">............................ </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
-<text x="16" y="268" fill="#c9d1d9" xml:space="preserve">          (/#*///(//,,,**/(/((/**,,,,.  ,*,,,*(#**#         </text>
-<text x="462.4" y="268" xml:space="preserve"><tspan fill="#e6b450">LinkedIn:</tspan><tspan fill="#8b949e">...................... </tspan><tspan fill="#79c0ff">in/rahulsuresh2569</tspan></text>
-<text x="16" y="283" fill="#c9d1d9" xml:space="preserve">          (##,/////(**,, (%&amp;@@&amp;@&amp;#(*. **,(*,,*//            </text>
-<text x="462.4" y="283" xml:space="preserve"><tspan fill="#e6b450">Discord:</tspan><tspan fill="#8b949e">............................... </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
-<text x="16" y="298" fill="#c9d1d9" xml:space="preserve">              */////(((##(((%%#%#/***,**/,,,,**(            </text>
-<text x="16" y="313" fill="#c9d1d9" xml:space="preserve">              #,**////(##(#(/,,*,.,,,,**,,,.,,(             </text>
-<text x="462.4" y="313" xml:space="preserve"><tspan fill="#c9d1d9">- GitHub Stats </tspan><tspan fill="#8b949e">-----------------------------------</tspan></text>
-<text x="16" y="328" fill="#c9d1d9" xml:space="preserve">                ..,*,*/#(###%##(((///*,,,..,,               </text>
-<text x="462.4" y="328" xml:space="preserve"><tspan fill="#e6b450">Repos:</tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#79c0ff">13</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Stars:</tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#79c0ff">11</tspan></text>
-<text x="16" y="343" fill="#c9d1d9" xml:space="preserve">                 *..,..,**/*/***//*,,,...,.*(               </text>
-<text x="462.4" y="343" xml:space="preserve"><tspan fill="#e6b450">Commits:</tspan><tspan fill="#8b949e">.......... </tspan><tspan fill="#79c0ff">~560</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Followers:</tspan><tspan fill="#8b949e">............ </tspan><tspan fill="#79c0ff">4</tspan></text>
-<text x="16" y="358" fill="#c9d1d9" xml:space="preserve">                 (/*,.. ...   ..  .   ..,,,*#               </text>
-<text x="462.4" y="358" xml:space="preserve"><tspan fill="#e6b450">Lines of Code:</tspan><tspan fill="#8b949e">......................... </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
-<text x="16" y="373" fill="#c9d1d9" xml:space="preserve">                /@/((/*,,,................,*/% ,            </text>
-<text x="462.4" y="373" xml:space="preserve"><tspan fill="#e6b450">Loc.Added:</tspan><tspan fill="#8b949e">............................. </tspan><tspan fill="#3fb950">[ADD HERE]</tspan></text>
-<text x="16" y="388" fill="#c9d1d9" xml:space="preserve">              .,@@@(((((///***,,....,..,.,..#&amp;&amp; ,/          </text>
-<text x="462.4" y="388" xml:space="preserve"><tspan fill="#e6b450">Loc.Deleted:</tspan><tspan fill="#8b949e">........................... </tspan><tspan fill="#f85149">[ADD HERE]</tspan></text>
-<text x="16" y="403" fill="#c9d1d9" xml:space="preserve">           ,,.,,@@@@&amp;(((((////***,,,,,,,..%%%%%  ,,,*.      </text>
-<text x="462.4" y="403" xml:space="preserve"><tspan fill="#e6b450">Status:</tspan><tspan fill="#8b949e">............. </tspan><tspan fill="#79c0ff">building + learning AI agents</tspan></text>
-<text x="16" y="418" fill="#c9d1d9" xml:space="preserve">     ,..,,,,,.,.@@@@@@@&amp;((((////**,,,,,&amp;%%%%%%(   ,,.. ....*</text>
-<text x="462.4" y="418" xml:space="preserve"><tspan fill="#e6b450">Focus:</tspan><tspan fill="#8b949e">................ </tspan><tspan fill="#79c0ff">Full-Stack, AI &amp; Automation</tspan></text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="profile-card" width="969" height="534" viewBox="0 0 969 534">
+<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13">
+<text x="28" y="39.3" fill="#c9d1d9" xml:space="preserve">                       #(,.,.....,,,/(%                     </text>
+<text x="535" y="39.3" xml:space="preserve"><tspan fill="#c9d1d9">rahul@suresh </tspan><tspan fill="#8b949e">---------------------------------------</tspan></text>
+<text x="28" y="57.3" fill="#c9d1d9" xml:space="preserve">                /#,..,,*,., ,.. .... ....,*(                </text>
+<text x="535" y="57.3" xml:space="preserve"><tspan fill="#e6b450">OS:</tspan><tspan fill="#8b949e">...................................... </tspan><tspan fill="#79c0ff">Windows 11</tspan></text>
+<text x="28" y="75.3" fill="#c9d1d9" xml:space="preserve">              ,.,,***.** .. .  . .     .    .*,%            </text>
+<text x="535" y="75.3" xml:space="preserve"><tspan fill="#e6b450">Uptime:</tspan><tspan fill="#8b949e">................................. </tspan><tspan fill="#79c0ff">21y 10m 11d</tspan></text>
+<text x="28" y="93.3" fill="#c9d1d9" xml:space="preserve">           /,....(,,*.,..                .  .. **/(#        </text>
+<text x="535" y="93.3" xml:space="preserve"><tspan fill="#e6b450">Host:</tspan><tspan fill="#8b949e">............................. </tspan><tspan fill="#79c0ff">BMW Group, Munich</tspan></text>
+<text x="28" y="111.3" fill="#c9d1d9" xml:space="preserve">         .    .,..,.,,.                 .   .  ..,,/        </text>
+<text x="535" y="111.3" xml:space="preserve"><tspan fill="#e6b450">Kernel:</tspan><tspan fill="#8b949e">....................... </tspan><tspan fill="#79c0ff">Full Stack Dev Intern</tspan></text>
+<text x="28" y="129.3" fill="#c9d1d9" xml:space="preserve">      #,   ..    . .           ........    .   .  .,(       </text>
+<text x="535" y="129.3" xml:space="preserve"><tspan fill="#e6b450">IDE:</tspan><tspan fill="#8b949e">..................................... </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
+<text x="28" y="147.3" fill="#c9d1d9" xml:space="preserve">      %/   ..     ..,,,,,,,,********,,..       . ..,/       </text>
+<text x="28" y="165.3" fill="#c9d1d9" xml:space="preserve">     % .     ..   .,. **/,*///////***,,,.       ...*#%      </text>
+<text x="535" y="165.3" xml:space="preserve"><tspan fill="#e6b450">Languages.Programming:</tspan><tspan fill="#8b949e">........ </tspan><tspan fill="#79c0ff">JS, TS, Python, C/C++</tspan></text>
+<text x="28" y="183.3" fill="#c9d1d9" xml:space="preserve">       (.      .,/**/(/((#(((#(((((//**,,,..  . .../        </text>
+<text x="535" y="183.3" xml:space="preserve"><tspan fill="#e6b450">Languages.Computer:</tspan><tspan fill="#8b949e">........... </tspan><tspan fill="#79c0ff">HTML, CSS, JSON, YAML</tspan></text>
+<text x="28" y="201.3" fill="#c9d1d9" xml:space="preserve">         .     .*(/((#%%&amp;%%%#%#(((//*,,,,***, . ,..%        </text>
+<text x="535" y="201.3" xml:space="preserve"><tspan fill="#e6b450">Languages.Real:</tspan><tspan fill="#8b949e">.............. </tspan><tspan fill="#79c0ff">English, German, Tamil</tspan></text>
+<text x="28" y="219.3" fill="#c9d1d9" xml:space="preserve">        *.    ,/(/***,.,,,*/(((/*,...,***,,/##...,/         </text>
+<text x="28" y="237.3" fill="#c9d1d9" xml:space="preserve">         .   ,/(/(((*##*,.**/((*...,.*  .*.**#%,.,          </text>
+<text x="535" y="237.3" xml:space="preserve"><tspan fill="#e6b450">Hobbies.Software:</tspan><tspan fill="#8b949e">.......... </tspan><tspan fill="#79c0ff">AI &amp; Automation, Web Dev</tspan></text>
+<text x="28" y="255.3" fill="#c9d1d9" xml:space="preserve">         *  .*(((/*/(#(**(#((##/*,*///*******/#,, #         </text>
+<text x="28" y="273.3" fill="#c9d1d9" xml:space="preserve">         **/,/(((######%#%#(#%#(/*,/(#(((((/*/(#,.#         </text>
+<text x="535" y="273.3" xml:space="preserve"><tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#8b949e">------------------------------------------</tspan></text>
+<text x="28" y="291.3" fill="#c9d1d9" xml:space="preserve">         *##*/(##%%%&amp;%#(/(##(##(/,//.,/(((///##% //         </text>
+<text x="535" y="291.3" xml:space="preserve"><tspan fill="#e6b450">Email.Personal:</tspan><tspan fill="#8b949e">........... </tspan><tspan fill="#79c0ff">rahulsuresh2569@gmail.com</tspan></text>
+<text x="28" y="309.3" fill="#c9d1d9" xml:space="preserve">         ((((//(####(*./##(,,*,..  ..,*,//***(##,.#         </text>
+<text x="535" y="309.3" xml:space="preserve"><tspan fill="#e6b450">Email.Work:</tspan><tspan fill="#8b949e">.............................. </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
+<text x="28" y="327.3" fill="#c9d1d9" xml:space="preserve">          (/#*///(//,,,**/(/((/**,,,,.  ,*,,,*(#**#         </text>
+<text x="535" y="327.3" xml:space="preserve"><tspan fill="#e6b450">LinkedIn:</tspan><tspan fill="#8b949e">........................ </tspan><tspan fill="#79c0ff">in/rahulsuresh2569</tspan></text>
+<text x="28" y="345.3" fill="#c9d1d9" xml:space="preserve">          (##,/////(**,, (%&amp;@@&amp;@&amp;#(*. **,(*,,*//            </text>
+<text x="535" y="345.3" xml:space="preserve"><tspan fill="#e6b450">Discord:</tspan><tspan fill="#8b949e">................................. </tspan><tspan fill="#79c0ff">[ADD HERE]</tspan></text>
+<text x="28" y="363.3" fill="#c9d1d9" xml:space="preserve">              */////(((##(((%%#%#/***,**/,,,,**(            </text>
+<text x="28" y="381.3" fill="#c9d1d9" xml:space="preserve">              #,**////(##(#(/,,*,.,,,,**,,,.,,(             </text>
+<text x="535" y="381.3" xml:space="preserve"><tspan fill="#c9d1d9">- GitHub Stats </tspan><tspan fill="#8b949e">-------------------------------------</tspan></text>
+<text x="28" y="399.3" fill="#c9d1d9" xml:space="preserve">                ..,*,*/#(###%##(((///*,,,..,,               </text>
+<text x="535" y="399.3" xml:space="preserve"><tspan fill="#e6b450">Repos:</tspan><tspan id="repo_dots" fill="#8b949e">.... </tspan><tspan id="repo_data" fill="#79c0ff">13</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Stars:</tspan><tspan id="star_dots" fill="#8b949e">.... </tspan><tspan id="star_data" fill="#79c0ff">11</tspan></text>
+<text x="28" y="417.3" fill="#c9d1d9" xml:space="preserve">                 *..,..,**/*/***//*,,,...,.*(               </text>
+<text x="535" y="417.3" xml:space="preserve"><tspan fill="#e6b450">Commits:</tspan><tspan id="commit_dots" fill="#8b949e">..... </tspan><tspan id="commit_data" fill="#79c0ff">569</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#e6b450">Followers:</tspan><tspan id="follower_dots" fill="#8b949e">..... </tspan><tspan id="follower_data" fill="#79c0ff">4</tspan></text>
+<text x="28" y="435.3" fill="#c9d1d9" xml:space="preserve">                 (/*,.. ...   ..  .   ..,,,*#               </text>
+<text x="535" y="435.3" xml:space="preserve"><tspan fill="#e6b450">Lines of Code:</tspan><tspan id="loc_dots" fill="#8b949e">..... </tspan><tspan id="loc_data" fill="#79c0ff">443,992</tspan><tspan fill="#8b949e"> ( </tspan><tspan id="loc_add" fill="#3fb950">489,024++</tspan><tspan fill="#8b949e">, </tspan><tspan id="loc_del" fill="#f85149">45,032--</tspan><tspan fill="#8b949e"> )</tspan></text>
+<text x="28" y="453.3" fill="#c9d1d9" xml:space="preserve">                /@/((/*,,,................,*/% ,            </text>
+<text x="28" y="471.3" fill="#c9d1d9" xml:space="preserve">              .,@@@(((((///***,,....,..,.,..#&amp;&amp; ,/          </text>
+<text x="535" y="471.3" xml:space="preserve"><tspan fill="#e6b450">Status:</tspan><tspan fill="#8b949e">............... </tspan><tspan fill="#79c0ff">building + learning AI agents</tspan></text>
+<text x="28" y="489.3" fill="#c9d1d9" xml:space="preserve">           ,,.,,@@@@&amp;(((((////***,,,,,,,..%%%%%  ,,,*.      </text>
+<text x="28" y="507.3" fill="#c9d1d9" xml:space="preserve">     ,..,,,,,.,.@@@@@@@&amp;((((////**,,,,,&amp;%%%%%%(   ,,.. ....*</text>
+<text x="535" y="507.3" xml:space="preserve"><tspan fill="#e6b450">Focus:</tspan><tspan fill="#8b949e">.................. </tspan><tspan fill="#79c0ff">Full-Stack, AI &amp; Automation</tspan></text>
 </g></svg>

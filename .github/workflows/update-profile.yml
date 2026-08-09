@@ -1,0 +1,55 @@
+name: Update profile card
+
+on:
+  schedule:
+    # Daily 04:00 UTC (same idea as Andrew6rant)
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "update_profile.py"
+      - "github-profile-card.svg"
+      - ".github/workflows/update-profile.yml"
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh GitHub stats in SVG
+        env:
+          # Optional PAT (repo scope) as secrets.ACCESS_TOKEN for higher rate limits /
+          # commit search. Otherwise GITHUB_TOKEN is used.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: rahulsuresh2569
+          SVG_PATH: github-profile-card.svg
+        run: python update_profile.py
+
+      - name: Commit SVG if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-profile-card.svg
+          if git diff --staged --quiet; then
+            echo "No stat changes"
+          else
+            git commit -m "chore: refresh profile GitHub stats"
+            git push
+          fi
